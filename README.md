@@ -1,16 +1,15 @@
 🚀 Sobre o jogo
-
 Este jogo é simples, mas foi um dos meus primeiros passos no mundo da programação. Ele me ajudou a aprender sobre:
 
-Estrutura básica de páginas web
+*Estrutura básica de páginas web
 
-Manipulação do DOM
+*Manipulação do DOM
 
-Eventos de teclado
+*Eventos de teclado
 
-Lógica de movimentos
+*Lógica de movimentos
 
-Criatividade e experimentação
+*Criatividade e experimentação
 
 Agora sigo buscando melhorar a experiência do meu primeiro jogo, mas deixo aqui registrado onde tudo começou — meu ponto de partida na programação.
 
@@ -22,6 +21,8 @@ Abra o link do jogo:
 Use as teclas do teclado para mover.
 
 Divirta-se testando minha primeira experiência no desenvolvimento de jogos!
+
+
 
 📁 Tecnologias utilizadas
 
