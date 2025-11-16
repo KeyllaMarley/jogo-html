@@ -12,6 +12,8 @@ Lógica de movimentos
 
 Criatividade e experimentação
 
+Agora sigo buscando melhorar a experiência do meu primeiro jogo, mas deixo aqui registrado onde tudo começou — meu ponto de partida na programação.
+
 🕹️ Como jogar
 
 Abra o link do jogo:
